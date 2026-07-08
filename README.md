@@ -33,3 +33,22 @@ The available quests focus on:
 
 ## My part
 My responsibilities include designing and building game levels, placing and polishing environmental assets, creating and implementing materials, and developing UI widgets.
+<br /><br />
+![Main](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Main.png)
+<br /><br />
+I created game's main map using Unreal Engine Landscape tools. Currently map goes through rework (shown on last image).
+<br /><br />
+![OldLandscape](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/OldLandscape.png)
+![Map_1](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Map_1.png)
+![Map_2](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Map_2.png)
+![NewLandscape](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/NewLandscape.png)
+<br /><br />
+I created grass using Unreal Landscape Grass, which uses Runtime Virtual Texture connected to painted landscape as coloring method. Grass sways on the wind and interacts with player position by bending underneath them.
+<br /><br />
+![Grass](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Grass.png)
+<br /><br />
+I was rensponsible for implementing vignette effects depending on player status.
+<br /><br />
+![Vignette](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Vignette.png)
+![High](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Chain%20zjaraniec.mp4)
+<br /><br />
