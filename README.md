@@ -49,6 +49,6 @@ I created grass using Unreal Landscape Grass, which uses Runtime Virtual Texture
 <br /><br />
 I was rensponsible for implementing vignette effects depending on player status.
 <br /><br />
-![Vignette](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Vignette.png)
+![Vignette]()
 ![High](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Chain%20zjaraniec.mp4)
 <br /><br />
