@@ -36,7 +36,7 @@ My responsibilities include designing and building game levels, placing and poli
 <br /><br />
 ![Main](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Main.png)
 <br /><br />
-I created game's main map using Unreal Engine Landscape tools. Currently map goes through rework (shown on last image).
+I created game's main map using Unreal Engine Landscape tools and colored it with layer painting. Currently map goes through rework (shown on last image in this section).
 <br /><br />
 ![OldLandscape](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/OldLandscape.png)
 ![Map_1](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Map_1.png)
@@ -47,7 +47,7 @@ I created grass using Unreal Landscape Grass, which uses Runtime Virtual Texture
 <br /><br />
 ![Grass](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Grass.png)
 <br /><br />
-I was rensponsible for creating post-process effects, specifically fog and vignette effects depending on player status.
+I was rensponsible for creating post-process effects, specifically fog and vignettes depending on player status.
 <br /><br />
 ![Fog](https://github.com/Tostereek/Closed-Grounds/blob/0b76541365e4645455d4669729b7020a28d03a71/Media/Fog.png)
 ![Vignette](https://github.com/Tostereek/Closed-Grounds/blob/79306ae094a1a73098f09803749766b9571eb6f0/Media/ViniettyIInneBzdety.png)
