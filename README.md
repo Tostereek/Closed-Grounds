@@ -51,5 +51,5 @@ I was rensponsible for creating post-process effects, specifically fog and vigne
 <br /><br />
 ![Fog](https://github.com/Tostereek/Closed-Grounds/blob/0b76541365e4645455d4669729b7020a28d03a71/Media/Fog.png)
 ![Vignette](https://github.com/Tostereek/Closed-Grounds/blob/79306ae094a1a73098f09803749766b9571eb6f0/Media/ViniettyIInneBzdety.png)
-![High](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Chain%20zjaraniec.mp4)
+https://github.com/user-attachments/assets/58dc8d18-c5d3-489d-9fa0-61019b6cea48
 <br /><br />
