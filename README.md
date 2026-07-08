@@ -47,8 +47,9 @@ I created grass using Unreal Landscape Grass, which uses Runtime Virtual Texture
 <br /><br />
 ![Grass](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Grass.png)
 <br /><br />
-I was rensponsible for implementing vignette effects depending on player status.
+I was rensponsible for creating post-process effects, specifically fog and vignette effects depending on player status.
 <br /><br />
+![Fog](https://github.com/Tostereek/Closed-Grounds/blob/0b76541365e4645455d4669729b7020a28d03a71/Media/Fog.png)
 ![Vignette](https://github.com/Tostereek/Closed-Grounds/blob/79306ae094a1a73098f09803749766b9571eb6f0/Media/ViniettyIInneBzdety.png)
 ![High](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Chain%20zjaraniec.mp4)
 <br /><br />
