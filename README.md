@@ -1,4 +1,6 @@
 # Closed Grounds
+Status: Hiatus 
+<br /><br />
 A story-driven action game focused on exploration, fast-paced combat, and completing quests in a cursed forest. Closed Grounds tells the story of a secluded forest once owned by a forester, now consumed by a mysterious curse. The protagonist is a badger named Chain, who awakens to find the forest nearly deserted, with its remaining inhabitants hiding from the monsters lurking in the darkness of the woods.
 <br />
 
