@@ -33,8 +33,12 @@ The available quests focus on:
 
 <br />
 
-## My part
-My responsibilities include designing and building game levels, placing and polishing environmental assets, creating and implementing materials, and developing UI widgets.
+## My responsibilities
+- Designed and built the game's primary environment using Unreal Engine 5 Landscape tools.
+- Created terrain materials, landscape painting, and procedural vegetation systems.
+- Implemented interactive grass using Runtime Virtual Texture with wind animation and player interaction.
+- Developed post-processing effects (dynamic fog, player-state vignettes).
+- Created UI widgets and collaborated on environmental storytelling and level composition.
 <br /><br />
 ![Main](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Main.png)
 <br /><br />
