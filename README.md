@@ -42,6 +42,8 @@ The available quests focus on:
 <br /><br />
 ![Main](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Main.png)
 <br /><br />
+<hr />
+
 I created game's main map using Unreal Engine Landscape tools and colored it with layer painting. Currently map goes through rework (shown on last image in this section).
 <br /><br />
 ![OldLandscape](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/OldLandscape.png)
@@ -49,10 +51,14 @@ I created game's main map using Unreal Engine Landscape tools and colored it wit
 ![Map_2](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Map_2.png)
 ![NewLandscape](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/NewLandscape.png)
 <br /><br />
+<hr />
+
 I created grass using Unreal Landscape Grass, which uses Runtime Virtual Texture connected to painted landscape as coloring method. Grass sways on the wind and interacts with player position by bending underneath them.
 <br /><br />
 ![Grass](https://github.com/Tostereek/Closed-Grounds/blob/fcaac74f3a1a9c094ff7191701245e4b59b170a3/Media/Grass.png)
 <br /><br />
+<hr />
+
 I was rensponsible for creating post-process effects, specifically fog and vignettes depending on player status.
 <br /><br />
 ![Fog](https://github.com/Tostereek/Closed-Grounds/blob/0b76541365e4645455d4669729b7020a28d03a71/Media/Fog.png)
